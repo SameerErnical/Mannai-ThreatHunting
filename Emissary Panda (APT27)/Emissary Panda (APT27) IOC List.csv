@@ -1,0 +1,67 @@
+﻿Indicator Type,Indicators,Note
+Domain ,trojan.win32.hyperbro.ag,Emissary Panda (APT27) IOC
+Domain ,order.myvandyke.net,Emissary Panda (APT27) IOC
+Domain ,oa.myvandyke.net,Emissary Panda (APT27) IOC
+Domain ,ns.mlnrm.com,Emissary Panda (APT27) IOC
+Domain ,ns.sportwo8.me,Emissary Panda (APT27) IOC
+Domain ,ns.sportxx.me,Emissary Panda (APT27) IOC
+Domain ,oa.88tech.me,Emissary Panda (APT27) IOC
+Domain ,multi-user.target,Emissary Panda (APT27) IOC
+Domain ,jira.atlas-sian.net,Emissary Panda (APT27) IOC
+Domain ,ybupdate.me,Emissary Panda (APT27) IOC
+Domain ,dev.gitlabs.me,Emissary Panda (APT27) IOC
+File Hash (SHA256),cc196ee155bf864071cbeec3ddcd3e2451a37d4296f53a024142c70193b9691d,Emissary Panda (APT27) IOC
+File Hash (SHA256),d950cc937f4df9ab0bad44513d23ea7ecdfae2b0de8ba351018de5fb5d7b1382,Emissary Panda (APT27) IOC
+File Hash (SHA256),fac0009d615e98238cf348819b21f0dbbb462653c2257f1c6ef552838894e166,Emissary Panda (APT27) IOC
+File Hash (SHA256),c256b85747ad81e3f3f6c49ce496e77f024b302f921cb007a5f5375ac5b672d7,Emissary Panda (APT27) IOC
+File Hash (SHA256),ba1dabf7ff0a4bca8d7ff6e541b1930fc8328d240ba8a56ede96cc203daf6772,Emissary Panda (APT27) IOC
+File Hash (SHA256),ba484eebda8dbe07b36eb07fa6c5cbb8d1dcc6638808cdcf7f33d7bab51d2805,Emissary Panda (APT27) IOC
+File Hash (SHA256),aad2e40411aa08e398cdf7397c7a1b3b7ab2a5ba833b6d65f68b145d51c2ed05,Emissary Panda (APT27) IOC
+File Hash (SHA256),b504ab7a4a35e6deb34536d4663db696918961aadc03662b2c34e89b50ba10a1,Emissary Panda (APT27) IOC
+File Hash (SHA256),b92a9dcdcf0bec8cd1e8b701dbf7bd6f7e68473a9e711267a4af8e4be783bb1e,Emissary Panda (APT27) IOC
+File Hash (SHA256),9499eabf880a55522c1b78d5afaa9ff34ae958950627ccd15099f2e771c9b0b1,Emissary Panda (APT27) IOC
+File Hash (SHA256),9add546cb9527f9d7e4930aaddec6e14c70d1400d0d531a9102efd4c83b27dd7,Emissary Panda (APT27) IOC
+File Hash (SHA256),a8527a88fb9a48f043a0b762c7431fb52e601b72ff2fa0d35327e5cc72404edc,Emissary Panda (APT27) IOC
+File Hash (SHA256),83209d9b8ebd0add8665e533d0948ae4e878ccc21ba5e3b00bea8833b59acf9a,Emissary Panda (APT27) IOC
+File Hash (SHA256),43ae4e624413a587667027c03416d78b2515ac9081b8c9c967aadb1157f49e55,Emissary Panda (APT27) IOC
+File Hash (SHA256),6d9031eb617096439bc8c8f7c32f4a11ffefc4326d99229fc78722873092e400,Emissary Panda (APT27) IOC
+File Hash (SHA256),3ac029e49ca71d948bfe1a7bc691967cf26cb5a731c7807d5be3cf6b579fa8ab,Emissary Panda (APT27) IOC
+File Hash (SHA256),3f808df5af6889c2219fd4982dd49946535528237cc00530cce5c69c3e7f0e34,Emissary Panda (APT27) IOC
+File Hash (SHA256),1e2b05838edfb0460fc97e2d7bab2271891c55ca0c895d4db30cf2acfaea51d2,Emissary Panda (APT27) IOC
+File Hash (SHA256),2027784b3f0e8e5f6add0aa42c6b9b6ea3e3e1af6373a465cb57b145d24373bf,Emissary Panda (APT27) IOC
+File Hash (SHA256),2ada1b48457c169cf3f80e248190374102615e2c89b70e574fba4ddc09b5fcd5,Emissary Panda (APT27) IOC
+File Hash (SHA256),0daa82650712f2338803521969f7dc7deebba0e34c4797a9e39d99595d7eb423,Emissary Panda (APT27) IOC
+File Hash (SHA256),11f21d08f819dea21a09c602a4391142a5648f3e17a07a24d41418fcc17ea83f,Emissary Panda (APT27) IOC
+File Hash (SHA256),123880edc91f7dc033a769d9523f783f7b426673ee95e9e33654cdfa95a6462c,Emissary Panda (APT27) IOC
+File Hash (SHA256),09a3231a300d794010c3f400617cd0b1b7aab7141735a2b8635a8362584e196d,Emissary Panda (APT27) IOC
+File Hash (SHA256),0cd3df91582551182a0decf662a112e59591cf07f3d107f09df3194f7d498e62,Emissary Panda (APT27) IOC
+File Hash (SHA256),08dd5a9fdc387855fb5a23c167abec63b22272f66de099155036c5ce7e4deeb8,Emissary Panda (APT27) IOC
+File Hash (SHA256),e24b29a1df287fe947018c33590a0b443d6967944b281b70fba7ea6556d00109,Emissary Panda (APT27) IOC
+File Hash (SHA256),76b5fa39d5b519e82e63466df1a6b2068cc9754343efbabf862924557c0fc213,Emissary Panda (APT27) IOC
+File Hash (SHA256),c65c435737ac02132d9dfeb6ec1d7d903648f61ecdda8a85b4250f064cb4673f,Emissary Panda (APT27) IOC
+File Hash (SHA256),006569f0a7e501e58fe15a4323eedc08f9865239131b28dc5f95f750b4767b38,Webshells SHA256
+File Hash (SHA256),2feae7574a2cc4dea2bff4eceb92e3a77cf682c0a1e78ee70be931a251794b86,Webshells SHA256
+File Hash (SHA256),d1ab0dff44508bac9005e95299704a887b0ffc42734a34b30ebf6d3916053dbe,Webshells SHA256
+File Hash (SHA256),6b3f835acbd954af168184f57c9d8e6798898e9ee650bd543ea6f2e9d5cf6378,Malicious HackTools and Payloads SHA256
+File Hash (SHA256),88027a44dc82a97e21f04121eea2e86b4ddf1bd7bbaa4ad009b97b50307570bd,Malicious HackTools and Payloads SHA256
+File Hash (SHA256),738128b4f42c8d2335d68383d72734130c0c4184725c06851498a4cf0374a841,Malicious HackTools and Payloads SHA256
+File Hash (SHA256),3bca0bb708c5dad1c683c6ead857a5ebfa15928a59211432459a3efa6a1afc59,Malicious HackTools and Payloads SHA256
+File Hash (SHA256),29897f2ae25017455f904595872f2430b5f7fedd00ff1a46f1ea77e50940128e,Malicious HackTools and Payloads SHA256
+File Hash (SHA256),d0df8e1dcf30785a964ecdda9bd86374d35960e1817b25a6b0963da38e0b1333,Malicious HackTools and Payloads SHA256
+File Hash (SHA256),a18326f929229da53d4cc340bde830f75e810122c58b523460c8d6ba62ede0e5,Malicious HackTools and Payloads SHA256
+File Hash (SHA256),090cefebef655be7f879f2f14bd849ac20c4051d0c13e55410a49789738fad98,Malicious HackTools and Payloads SHA256
+File Hash (SHA256),7eea6e15bb13a3b65cca9405829123761bf7d12c6dc3b81ce499d8f6a0b25fb7,Malicious HackTools and Payloads SHA256
+File Hash (SHA256),38fa396770e0ecf60fe1ce089422283e2dc8599489bd18d5eb033255dd8e370c,Malicious HackTools and Payloads SHA256
+File Hash (SHA256),4a26ec5fd16ee13d869d6b0b6177e570444f6a007759ea94f1aa18fa831290a8,Malicious HackTools and Payloads SHA256
+File Hash (SHA256),b2b2e900aa2e96ff44610032063012aa0435a47a5b416c384bd6e4e58a048ac9,Malicious HackTools and Payloads SHA256
+File Hash (SHA256),475c7e88a6d73e619ec585a7c9e6e57d2efc8298b688ebc10a3c703322f1a4a7,Malicious HackTools and Payloads SHA256
+File Hash (SHA256),9f5f3a9ce156213445d08d1a9ea99356d2136924dc28a8ceca6d528f9dbd718b,Malicious HackTools and Payloads SHA256
+File Hash (SHA256),c9d5dc956841e000bfd8762e2f0b48b66c79b79500e894b4efa7fb9ba17e4e9e,Malicious HackTools and Payloads SHA256
+File Hash (SHA256),a6cad2d0f8dc05246846d2a9618fc93b7d97681331d5826f8353e7c3a3206e86,Malicious HackTools and Payloads SHA256
+File Hash (SHA256),e781ce2d795c5dd6b0a5b849a414f5bd05bb99785f2ebf36edb70399205817ee,Malicious HackTools and Payloads SHA256
+File Hash (SHA256),06510504f30feb1adc7e423d5a24e67e5b97acbfafe40f253a054be8b1c4e8d7,Malicious HackTools and Payloads SHA256
+File Hash (SHA256),b279a41359367408c627ffa8d80051ed0f04c76fbf6aed79b3b2963203e08ade,Malicious HackTools and Payloads SHA256
+File Hash (SHA256),04f48ed27a83a57a971e73072ac5c769709306f2714022770fb364fd575fd462,Malicious HackTools and Payloads SHA256
+File Hash (SHA256),2dde8881cd9b43633d69dfa60f23713d7375913845ac3fe9b4d8a618660c4528,Malicious HackTools and Payloads SHA256
+IP Address,185.12.45.134,HyperBro C3
+URL,https://185.12.45.134:443/ajax,HyperBro C2
