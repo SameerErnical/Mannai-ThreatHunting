@@ -1,0 +1,76 @@
+﻿Indicator Type,Indicators,Note
+Domain ,quedabesouro.ddns.net,RevengeRAT C2 Domain
+Domain ,queda212.duckdns.org,njRAT/RevengeRAT C2 Domain
+Domain ,3030pp.hopto.org,vjw0rm C2 Domain
+Domain ,vemvemserver.duckdns.org,Houdini/Loda C2 Domain
+Domain ,4success.zapto.org,Loda C2 Domain
+Domain ,success20.hopto.org,Loda C2 Domain
+Domain ,msin.hopto.org,Loda C2 Domain
+Domain ,cdtpitbull.hopto.org,AsyncRAT C2 Domain
+Domain ,111234cdt.ddns.net,njRAT/AsyncRAT C2 Domain
+Domain ,cdt2021.zapto.org,AsyncRAT C2 Domain
+Domain ,app-documents.com,domains used by APT groups for phishing attacks
+Domain ,britishnews.org,domains used by APT groups for phishing attacks
+Domain ,emiartas.com,domains used by APT groups for phishing attacks
+Domain ,userslogin.com,domains used by APT groups for phishing attacks
+Domain ,my-healthequity.com,domains used by APT groups for phishing attacks
+Domain ,fb-login.cf,domains used by APT groups for phishing attacks
+Domain ,drives-google.com,domains used by APT groups for phishing attacks
+Domain ,microsoft-upgrade.mobi,domains used by APT groups for phishing attacks
+Domain ,gmal.cf,domains used by APT groups for phishing attacks
+Domain ,hot-mail.ml,domains used by APT groups for phishing attacks
+Domain ,gdesnny.ga,APT TA558 IOC
+Domain ,kerasiastudios.gr,APT TA558 IOC
+Domain ,pit-now.click,APT TA558 IOC
+Domain ,www.cpasdrole.com,APT TA558 IOC
+Domain ,findc-download.cfd,APT TA558 IOC
+Domain ,appcisco.com,APT TA558 IOC
+Domain ,tecnozona.site,APT TA558 IOC
+Domain ,www.luxurypropertiesfl.com,APT TA558 IOC
+Domain ,moodle.corplearning.net,APT TA558 IOC
+Domain ,bookkeepingagents.com,APT TA558 IOC
+Domain ,mbal-karlovo.com,APT TA558 IOC
+Domain ,juba-web.com,APT TA558 IOC
+Domain ,oneweekday.com,APT TA558 IOC
+Domain ,uzuri-shop.com,APT TA558 IOC
+Domain ,ultradroneafrica.com,APT TA558 IOC
+Domain ,samikshashetty.com,APT TA558 IOC
+Domain ,solonotizie.com,APT TA558 IOC
+Domain ,design.stellrit.com,APT TA558 IOC
+Domain ,medicalbillingandtelehealth.com,APT TA558 IOC
+Domain ,fortdelgres.com,APT TA558 IOC
+Domain ,clublameute.com,APT TA558 IOC
+Domain ,fotografogianpaolosoldatini.com,APT TA558 IOC
+Domain ,alligatorplataformas.com,APT TA558 IOC
+Domain ,www.mediakomen.com,APT TA558 IOC
+Domain ,asaims.co,APT TA558 IOC
+Domain ,pit-your.click,APT TA558 IOC
+Domain ,microsofft.sslblindado.com,APT TA558 IOC
+Domain ,passagensv.sslblindado.com,APT TA558 IOC
+Domain ,system11.sslblindado.com,APT TA558 IOC
+Domain ,successfully.hopto.org,APT TA558 IOC
+Domain ,firefoxsystem.sytes.net,APT TA558 IOC
+Domain ,googledrives.ddns.net,APT TA558 IOC
+Domain ,maringareservas.com.br,APT TA558 IOC
+Domain ,seila.rtf,APT TA558 IOC
+Domain ,cdtmaster.com.br,APT TA558 IOC
+Domain ,hypemediardf.com.pl,APT TA558 IOC
+Domain ,brasilnativopousada.com.br,APT TA558 IOC
+Domain ,www.unimed-corporated.com,APT TA558 IOC
+Domain ,unimed-corporated.com,APT TA558 IOC
+IP Address ,38.132.101.45,RevengRAT C2 IP
+IP Address ,88.212.247.68,APT TA558 IOC
+IP Address ,52.58.78.16,APT TA558 IOC
+IP Address ,103.224.182.250,APT TA558 IOC
+IP Address ,45.56.79.23,APT TA558 IOC
+IP Address ,45.33.2.79,APT TA558 IOC
+IP Address ,45.33.23.183,APT TA558 IOC
+IP Address ,45.79.19.196,APT TA558 IOC
+IP Address ,198.58.118.167,APT TA558 IOC
+IP Address ,96.126.123.244,APT TA558 IOC
+IP Address ,91.195.241.137,APT TA558 IOC
+URL,http://cdtmaster.com.br/DadosDaReserva.doc,RTF payload URL
+URL,http://hypemediardf.com.pl/css/css.doc,Loda Payload URL
+URL,https://brasilnativopousada.com.br/Final.txt,AsyncRAT Payload URL
+URL,https://www.unimed-corporated.com/microsoft.txt,AsyncRAT Scheduled Task URL
+URL,https://unimed-corporated.com/tur/turismo.jpg,AsyncRAT Scheduled Task URL
